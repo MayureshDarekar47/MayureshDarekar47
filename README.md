@@ -38,8 +38,6 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 ---
 
-## 📊 GitHub Stats
-
 🚀 248+ contributions and actively building projects.
 ---
 
