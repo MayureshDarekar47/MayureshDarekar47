@@ -40,11 +40,9 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MayureshDarekar47&show_icons=true&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayureshDarekar47&layout=compact&hide_border=true" height="160"/>
-</p>
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayureshDarekar47&show_icons=true&hide_border=true)
 ---
 
 ## 🤝 Connect With Me
