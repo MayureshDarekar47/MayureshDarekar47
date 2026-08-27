@@ -1,72 +1,63 @@
-# Hi 👋, I'm Mayuresh Darekar
+# 👋 Hi, I'm Mayuresh Darekar
 
-### 💻 B.Tech CSE Student | Java & Web Development
+### 💻 B.Tech CSE Student | Java & Web Developer
 
-I'm a Computer Science & Engineering student who enjoys building websites, learning programming, and exploring new technologies.
+I’m a Computer Science & Engineering student passionate about **building real-world projects, learning new technologies, and improving my problem-solving skills.**
 
-🚀 Currently learning **Java and Web Development**
-🛠️ Building real-world projects
-📚 Improving my programming and problem-solving skills
-🌱 Always learning something new
+🚀 Currently learning **Java & DSA**
+🌱 Exploring **Web Development & Open Source**
+🛠️ Building projects and learning by doing
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-* Java
-* JavaScript
-* HTML & CSS
-* Next.js
-* Git & GitHub
-* Supabase
-* Vercel
-* Linux
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nextjs,git,github,supabase,vercel,linux" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 OneHub AI
-
-An AI-focused web project built to explore modern web development and AI-related functionality.
-
-### 🛕 Hanuman Mandir Darekarwadi
-
-A website created for Hanuman Mandir Darekarwadi to provide information about the temple, events, timings, gallery, aarti and other details.
-
-### 🌐 Mayuresh Portfolio
-
-My personal portfolio website showcasing my projects, skills and work.
-
-### 🔗 HyprLink
-
-An open-source Android-to-Linux remote control project for Hyprland.
+| Project                           | Description                                  |
+| --------------------------------- | -------------------------------------------- |
+| 🤖 **OneHub AI**                  | AI-focused web application                   |
+| 🛕 **Hanuman Mandir Darekarwadi** | Temple information & community website       |
+| 🌐 **Mayuresh Portfolio**         | Personal portfolio website                   |
+| 🔗 **HyprLink**                   | Android-to-Linux remote control for Hyprland |
 
 ---
 
-## 🎯 Current Goals
+## 🎯 What I'm Working On
 
-* Learn Java from the fundamentals
-* Improve Data Structures & Algorithms
-* Practice problem solving
-* Build more real-world projects
-* Improve my web development skills
-* Contribute to open-source projects
+* ☕ Learning **Java**
+* 🧠 Practicing **DSA & Problem Solving**
+* 🌐 Building modern web applications
+* 🚀 Exploring open-source projects
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-I enjoy building projects and continuously improving my development skills through hands-on practice.
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MayureshDarekar47&show_icons=true&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayureshDarekar47&layout=compact&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn
-* 🌐 Portfolio
-* 🐙 GitHub
+<p align="left">
+<a href="https://www.linkedin.com/in/mayuresh-darekar-99555b387/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="https://mayureshdarekar.netlify.app/">
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+</a>
+</p>
 
 ---
 
-### 🚀 Keep Learning. Keep Building. Keep Growing.
+### 🚀 Keep Learning • Keep Building • Keep Growing
