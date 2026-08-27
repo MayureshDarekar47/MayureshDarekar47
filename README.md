@@ -40,9 +40,7 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayureshDarekar47&show_icons=true&hide_border=true)
+🚀 248+ contributions and actively building projects.
 ---
 
 ## 🤝 Connect With Me
