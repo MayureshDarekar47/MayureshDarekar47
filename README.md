@@ -54,4 +54,3 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 ---
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
