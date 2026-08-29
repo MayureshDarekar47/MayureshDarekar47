@@ -43,12 +43,15 @@ I’m a Computer Science & Engineering student passionate about **building real-
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mayuresh-darekar-99555b387/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-<a href="https://mayureshdarekar.netlify.app/">
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/mayuresh-darekar-99555b387/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://mayureshdarekar.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  </a>
+  <a href="mailto:mayureshdarekar2007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
 </p>
 
 ---
