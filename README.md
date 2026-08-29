@@ -46,10 +46,12 @@ I’m a Computer Science & Engineering student passionate about **building real-
   <a href="https://www.linkedin.com/in/mayuresh-darekar-99555b387/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
+
   <a href="https://mayureshdarekar.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=html" width="45"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="45"/>
   </a>
-  <a href="mailto:mayureshdarekar2007@gmail.com">
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
