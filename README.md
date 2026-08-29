@@ -20,13 +20,12 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 ## 🚀 Featured Projects
 
-| Project                           | Description                                  |
-| --------------------------------- | -------------------------------------------- |
-| 🤖 **OneHub AI**                  | AI-focused web application                   |
-| 🛕 **Hanuman Mandir Darekarwadi** | Temple information & community website       |
-| 🌐 **Mayuresh Portfolio**         | Personal portfolio website                   |
-| 🔗 **HyprLink**                   | Android-to-Linux remote control for Hyprland |
-
+| Project | Description | Live |
+| --- | --- | --- |
+| 🤖 **OneHub AI** | AI-powered web platform and intelligent workspace | [Live Demo](http://onehub-ai.vercel.app/) |
+| 🛕 **Hanuman Mandir Darekarwadi** | Temple information, events, gallery, aarti & community website | [Visit Website](https://hanuman-mandir-darekarwadi.vercel.app/) |
+| 🌐 **Mayuresh Portfolio** | Personal portfolio and developer profile | [Visit Portfolio](https://mayureshdarekar.netlify.app/) |
+| 🔗 **HyprLink** | Android-to-Linux remote control for Hyprland | — |
 ---
 
 ## 🎯 What I'm Working On
