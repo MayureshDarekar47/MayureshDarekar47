@@ -58,5 +58,4 @@ I’m a Computer Science & Engineering student passionate about **building real-
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
----
 
