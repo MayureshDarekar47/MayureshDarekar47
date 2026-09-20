@@ -38,7 +38,7 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 ---
 
-🚀 317+ contributions and actively building projects.
+🚀 527+ contributions and actively building projects.
 ---
 ## 🤝 Connect With Me
 
