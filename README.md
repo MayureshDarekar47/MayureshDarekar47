@@ -37,7 +37,9 @@ I’m a Computer Science & Engineering student passionate about **building real-
 * 🚀 Exploring open-source projects
 
 ---
-<img src="https://raw.githubusercontent.com/MayureshDarekar47/MayureshDarekar47/output/outputs: |dist/github-contribution-grid-snake-dark.svg?color_snake=%2339FF14&color_dots=%23161b22,%2314532d,%2316a34a,%2322c55e,%2339FF14
+<img src="https://raw.githubusercontent.com/MayureshDarekar47/MayureshDarekar47/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+🚀 527+ contributions and actively building projects.
 🚀 527+ contributions and actively building projects.
 ---
 ## 🤝 Connect With Me
