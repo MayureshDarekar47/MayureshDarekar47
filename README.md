@@ -53,7 +53,6 @@ I’m a Computer Science & Engineering student passionate about **building real-
 </div>
 -->
 
----
 ## 🤝 Connect With Me
 
 <p align="left">
