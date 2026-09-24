@@ -47,7 +47,7 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 <div align="center">
 <a href="https://star-history.com/#MayureshDarekar47/OneHub-AI&Date">
-  <img src="https://api.star-history.com/svg?repos=MayureshDarekar47/OneHub-AI&type=Date" alt="Star History Chart" width="80%" />
+  <img src="https://api.star-history.com/svg?repos=MayureshDarekar47/OneHub-AI&type=Date" alt="Star History Chart" width="40%" />
 </a>
 </div>
 
