@@ -43,13 +43,15 @@ I’m a Computer Science & Engineering student passionate about **building real-
 
 🚀 527+ contributions and actively building projects.
 ---
+<!--
 ### 📈 Star History
 
 <div align="left">
 <a href="https://star-history.com/#MayureshDarekar47/OneHub-AI&Date">
-<img src="https://api.star-history.com/svg?repos=MayureshDarekar47/OneHub-AI&type=Date&theme=dark" alt="Star History Chart" width="75%" />
+<img src="https://api.star-history.com/svg?repos=MayureshDarekar47/OneHub-AI&type=Date&theme=dark" alt="Star History Chart" width="50%" />
 </a>
 </div>
+-->
 
 ---
 ## 🤝 Connect With Me
