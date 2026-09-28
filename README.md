@@ -25,7 +25,8 @@ I’m a Computer Science & Engineering student passionate about **building real-
 | 🤖 **OneHub AI** | AI-powered web platform and intelligent workspace | [View Project](http://onehub-ai.vercel.app/) |
 | 🛕 **Hanuman Mandir Darekarwadi** | Temple information, events, gallery, aarti & community website | [View Project](https://hanuman-mandir-darekarwadi.vercel.app/) |
 | 🌐 **Mayuresh Portfolio** | Personal portfolio and developer profile | [View Project](https://mayureshdarekar.netlify.app/) |
-| 📍 Location Tracker | Location sharing and tracking application| [View Project](https://location-trackerkali.netlify.app/) |
+| 📍 **Location Tracker** | Location sharing and tracking application| [View Project](https://location-trackerkali.netlify.app/) |
+| 🎵 **Vibe Stream** | Modern music streaming and playlist web application | [View Project](https://music-app-mayur.vercel.app/) |
 | 🔗 **HyprLink** | Android-to-Linux remote control for Hyprland | — |
 ---
 
@@ -41,7 +42,7 @@ I’m a Computer Science & Engineering student passionate about **building real-
 <img src="https://raw.githubusercontent.com/MayureshDarekar47/MayureshDarekar47/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="%100" />
 </div>
 
-🚀 527+ contributions and actively building projects.
+🚀 597+ contributions and actively building projects.
 ---
 <!--
 ### 📈 Star History
