@@ -29,7 +29,7 @@ I’m a Computer Science & Engineering student passionate about **building real-
 | 🎵 **Vibe Stream** | Modern music streaming and playlist web application | [View Project](https://music-app-mayur.vercel.app/) |
 | 📸 **Webcam** | Webcam application for camera testing, photo capture & video recording | [View Project](https://webcam-mayur.vercel.app/) |
 | 🔄 **ShareX** | Send text, files, photos & videos between devices | [View Project](https://sharex-mayur.vercel.app/) |
-| 🔗 **HyprLink** | Android-to-Linux remote control for Hyprland | — |
+| 🔗 **HyprLink** | Android-to-Linux remote control for Hyprland | —————— |
 ---
 
 ## 🎯 What I'm Working On
