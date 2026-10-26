@@ -72,7 +72,7 @@ I’m a Computer Science & Engineering student passionate about **building real-
     <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mayureshdarekar2007@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
