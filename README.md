@@ -30,6 +30,7 @@ I’m a Computer Science & Engineering student passionate about **building real-
 | 📸 **Webcam** | Webcam application for camera testing, photo capture & video recording | [View Project](https://webcam-mayur.vercel.app/) |
 | 🔄 **ShareX** | Send text, files, photos & videos between devices | [View Project](https://sharex-mayur.vercel.app/) |
 | 🎧 **Sound Cast** | Share and sync music across devices in real time — Website & PWA | [View Project](https://sound-cast.vercel.app/) |
+| 📱 **CloneAPK** | Download APK and clone Android apps to create multiple app instances | [View Project](https://cloneapk.vercel.app/) |
 | 🔗 **HyprLink** | Android-to-Linux remote control for Hyprland | —————— |
 ---
 
